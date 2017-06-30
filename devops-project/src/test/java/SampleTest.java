@@ -8,6 +8,6 @@ public class SampleTest {
 	public void simpleTest()  {
 		int a = 10;
 		int b= 20;
-		assertTrue(a+b==300);
+		assertTrue(a+b==30);
 	}
 }
