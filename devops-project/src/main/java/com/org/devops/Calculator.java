@@ -31,8 +31,8 @@ public class Calculator {
 	public static void main(String[] args) {
 		Calculator calc = new Calculator();
 		
-		int number1 = 20;
-		int number2 = 10;
+		int number1 = 200;
+		int number2 = 100;
 		
 		calc.addNumbers(number1, number2);
 		calc.substraction(number1, number2);
