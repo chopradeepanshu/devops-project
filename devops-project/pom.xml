@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>qashahin</groupId>
-	<artifactId>junit-demo</artifactId>
+	<groupId>devops-project</groupId>
+	<artifactId>devops-project</artifactId>
 	<version>0.0.1</version>
 
 	<dependencies>
@@ -24,11 +24,11 @@
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 					<webResources>
 						<resource>
-							<directory>/WebContent</directory>
+							<directory>WebContent</directory>
 							<includes>
 								<include>*.html</include>
 							</includes>
-							<targetPath>/WebContent</targetPath>
+							<targetPath>/</targetPath>
 						</resource>
 					</webResources>
 				</configuration>
