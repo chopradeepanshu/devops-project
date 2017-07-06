@@ -27,8 +27,6 @@
 							<directory>WebContent</directory>
 							<includes>
 								<include>*.html</include>
-								<include>*.gif</include>
-								<include>*.jpg</include>
 							</includes>
 							<targetPath>/</targetPath>
 						</resource>
