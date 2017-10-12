@@ -26,7 +26,7 @@
 						<resource>
 							<directory>WebContent</directory>
 							<includes>
-								<include>*.html</include>
+								<include>*.*</include>
 							</includes>
 							<targetPath>/</targetPath>
 						</resource>
