@@ -13,7 +13,7 @@ public class CalculatorTest {
 	public void testAddFunctionalityWithSuccess() {
 		Calculator calculator = new Calculator();
 		int results = calculator.addNumbers(10, 20);
-		assertTrue(results==30);
+		assertTrue(results==300);
 	}
 
 	@Test
