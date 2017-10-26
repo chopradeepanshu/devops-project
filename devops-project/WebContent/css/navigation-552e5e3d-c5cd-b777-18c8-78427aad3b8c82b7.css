@@ -1,0 +1,40 @@
+
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c {
+			text-align: center;
+		}
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li > a {
+			font-size: 14px;
+			font-family: "Tahoma";
+			font-weight: normal;
+			font-style: normal;
+		}
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li > a .navigation-item-text {
+			text-decoration: underline;
+		}
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li.selected > a .navigation-item-text,
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li.childselected > a .navigation-item-text {
+			font-weight: bold;
+			font-style: normal;
+			text-decoration: none;
+		}
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li:hover > a .navigation-item-text {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: underline;
+		}
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li.selected:hover > a .navigation-item-text,
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li.childselected:hover > a .navigation-item-text {
+			font-weight: bold;
+		}
+
+
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c { background-color: ; }
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c > li > a { color: ;}
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c > li { background-color: ; }
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li.selected > a, #widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li.childselected > a { color: ; }
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li.selected, #widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li.childselected { background-color: ; }
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c ul > li > a { color: ; }
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c ul > li { background-color: ; }
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li:hover > a { color:  !important; }
+		#widget-552e5e3d-c5cd-b777-18c8-78427aad3b8c li:hover { background-color:  !important; }
+		
